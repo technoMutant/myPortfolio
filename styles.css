@@ -1,0 +1,161 @@
+.top-container {
+  background-color: #ffe2e2;
+  height: 21.875rem;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 4.375rem;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #8785a2;
+}
+
+.text {
+  padding-top: 2.5rem;
+}
+
+.top-container-2 {
+  margin-top: 4.375rem;
+  background-color: #8785a2;
+  height: 18.75rem;
+  position: relative;
+  z-index: 1;
+}
+
+.Koala-image {
+  height: 14.0625rem;
+}
+
+.pink-text {
+  color: #ffe2e2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 2.5rem;
+  font-size: 1.875rem;
+}
+
+#Skills {
+  margin-top: 3.125rem;
+  height: 31.25rem;
+  background-color: #ffe2e2;
+}
+
+.purple-text {
+  color:  #8785a2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 3.125rem;
+  font-size: 1.875rem;
+}
+
+.skill-images {
+  height: 12.5rem;
+  padding: 1.25rem;
+}
+
+#Contact {
+ padding-top: 3.125rem;/*3.125rem; */
+  margin-top: 10rem;
+
+  height: 10.5rem;
+  background-color:white;
+}
+
+.linkedin-logo {
+  margin: 3rem;
+  height: 4.0625rem;
+  background-color: white;
+}
+#Projects {
+  margin-top: 3.125rem;
+  height: 31.25rem;
+  background-color:  #8785a2 ;
+}
+.pink-text1 {
+  color:  #ffe2e2;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 3.125rem;
+  font-size: 1.875rem;
+}
+
+@media (max-width: 1028px){
+  .top-container {
+    background-color: #ffe2e2;
+    height: 43.75rem;
+  }
+  h1 {
+    font-size: 7.750rem;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    color: #8785a2;
+  }
+  .text {
+    padding-top: 3rem;
+  }
+  .top-container-2 {
+    margin-top: 8.750rem;
+    background-color: #8785a2;
+    height: 37.5rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .Koala-image {
+    height: 28.1250rem;
+  }
+  .pink-text {
+    color: #ffe2e2;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 5rem;
+    font-size: 2.5rem;
+  }
+  #Skills {
+    margin-top: 6.250rem;
+    height: 62.5rem;
+    background-color: #ffe2e2;
+  }
+  .purple-text {
+    color: #8785a2;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 6.250rem;
+    font-size: 2.5rem;
+  }
+  .skill-images {
+    height: 15rem;
+    padding: 3.5rem;
+  }
+  #Contact {
+    padding-top:6.250rem;
+    margin-top: 10rem;
+    height: 25rem;
+    background-color: white;
+  }
+  .linkedin-logo {
+
+    height: 8.125rem;
+    background-color: white;
+  }
+  a{
+    font-size: 2rem;
+  }
+  #Projects{
+    margin-top: 6.250rem;
+    height: 52.5rem;
+    background-color: #8785a2;
+  }
+  .pink-text1 {
+    color: #ffe2e2;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 6.250rem;
+    font-size: 2.5rem;
+  }
+
+}
