@@ -132,6 +132,8 @@ h1 {
     padding: 3.5rem;
   }
   #Contact {
+    position: relative;
+    z-index: -1;
     padding-top:6.250rem;
     margin-top: 10rem;
     height: 25rem;
